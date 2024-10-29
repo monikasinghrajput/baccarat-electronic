@@ -1,0 +1,31 @@
+# Assets Requests
+GET     /assets/*file                     controllers.AppController.versioned(path="/public", file: Asset)
+
+
+# Game Server
+GET     /                                 controllers.Default.redirect(to = "/lobby")
+GET     /lobby                            controllers.baccarat.BaccaratSSeaterController.sendPlayerPage()
+
+
+# Baccarat Stadium Seater Table Service
+GET     /baccarat/player                         controllers.baccarat.BaccaratSSeaterController.sendPlayerPage()
+GET     /baccarat/admin                          controllers.baccarat.BaccaratSSeaterController.sendAdminPage()
+GET     /baccarat/topper                         controllers.baccarat.BaccaratSSeaterController.sendTopperPage()
+
+
+GET     /api/baccarat/getInitialData                 controllers.baccarat.BaccaratSSeaterController.sendInitialDataJson()
+GET     /api/baccarat/authenticate                   controllers.baccarat.BaccaratSSeaterController.sendAuthenticateJson()
+GET     /api/baccarat/getStreams                     controllers.baccarat.BaccaratSSeaterController.sendStreamsJson()
+
+GET     /api/baccarat/tableLimits                    controllers.baccarat.BaccaratSSeaterController.sendTableLimitsJson()
+POST    /api/baccarat/tableLimits                    controllers.baccarat.BaccaratSSeaterController.saveTableLimitsJson()
+POST    /api/baccarat/beetek/card                    controllers.baccarat.BaccaratSSeaterController.handleCardDrawn()
+
+# Web Socket
++ nocsrf
+GET     /baccarat/wsclient/player                 controllers.baccarat.BaccaratSSeaterController.player
++ nocsrf
+GET     /baccarat/wsclient/topper                 controllers.baccarat.BaccaratSSeaterController.topper
++ nocsrf
+GET     /baccarat/wsclient/admin                  controllers.baccarat.BaccaratSSeaterController.admin
+

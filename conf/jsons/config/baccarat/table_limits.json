@@ -1,0 +1,58 @@
+{
+  "chips" : [ {
+    "color" : "cyan",
+    "value" : 10,
+    "img" : "http://localhost:5000/CustomAssets/chips/default_cyan.png",
+    "default" : false
+  }, {
+    "color" : "red",
+    "value" : 50,
+    "img" : "http://localhost:5000/CustomAssets/chips/default_red.png",
+    "default" : false
+  }, {
+    "color" : "blue",
+    "value" : 100,
+    "img" : "http://localhost:5000/CustomAssets/chips/default_blue.png",
+    "default" : false
+  }, {
+    "color" : "violet",
+    "value" : 500,
+    "img" : "http://localhost:5000/CustomAssets/chips/default_violet.png",
+    "default" : false
+  }, {
+    "color" : "green",
+    "value" : 1000,
+    "img" : "http://localhost:5000/CustomAssets/chips/default_green.png",
+    "default" : false
+  }, {
+    "color" : "yellow",
+    "value" : 2000,
+    "img" : "http://localhost:5000/CustomAssets/chips/default_yellow.png",
+    "default" : false
+  }, {
+    "color" : "black",
+    "value" : 5000,
+    "img" : "http://localhost:5000/CustomAssets/chips/default_black.png",
+    "default" : false
+  } ],
+  "Min_Bet" : 10,
+  "Max_Bet" : 20000,
+  "Min_SideBet" : 10,
+  "Max_SideBet" : 2000,
+  "Min_StraightUpBet" : 0,
+  "Max_StraightUpBet" : 0,
+  "Min_SplitBet" : 0,
+  "Max_SplitBet" : 0,
+  "Min_StreetBet" : 0,
+  "Max_StreetBet" : 0,
+  "Min_CornerBet" : 0,
+  "Max_CornerBet" : 0,
+  "Min_LineBet" : 0,
+  "Max_LineBet" : 0,
+  "Min_Dozen_ColumnBet" : 0,
+  "Max_Dozen_ColumnBet" : 0,
+  "Min_OutsideBet" : 0,
+  "Max_OutsideBet" : 0,
+  "Min_Tie" : 10,
+  "Max_Tie" : 5000
+}

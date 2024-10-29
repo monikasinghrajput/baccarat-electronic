@@ -1,0 +1,44 @@
+{
+  "top": [],
+  "front": [
+    {
+      "url": "qUgkA-XLek4",
+      "location": "rtmp://bintu-splay.nanocosmos.de:1935/splay",
+      "bitrate": 2000,
+      "defaultPlatform": null,
+      "rendition": null,
+      "label": "720p",
+      "token": {
+        "value": "8f21172ae751c1040d99e0bf6c6e4206",
+        "options": "2"
+      }
+    },
+    {
+      "url": "qUgkA-r9zlr",
+      "location": "rtmp://bintu-splay.nanocosmos.de:1935/splay",
+      "bitrate": 1000,
+      "defaultPlatform": "desktop",
+      "rendition": null,
+      "label": "540p",
+      "token": {
+        "value": "0562d8ddbfbdd42783979f2ce9b0f25b",
+        "options": "2"
+      }
+    },
+    {
+      "url": "qUgkA-MbbdN",
+      "location": "rtmp://bintu-splay.nanocosmos.de:1935/splay",
+      "bitrate": 750,
+      "defaultPlatform": null,
+      "rendition": null,
+      "label": "360p",
+      "token": {
+        "value": "f79e2e8391d3ad46f614da3dc13145d6",
+        "options": "2"
+      }
+    }
+  ],
+  "delay": "3.5",
+  "secure": true,
+  "video_delay": "2"
+}

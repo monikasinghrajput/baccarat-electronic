@@ -1,0 +1,15 @@
+{
+  "MessageType": "INITIALIZE_PLAYER",
+  "TableId": "32100",
+  "LimitId": 992712,
+  "SessionCurrency": "USD",
+  "CurrentPlayerToken": "ff1f8d33-333c-4b83-a64f-0414ed6a35cd",
+  "destination": "gameEngine",
+  "gameType": "27",
+  "Language": "ENGLISH",
+  "ClientIp": "157.50.30.195",
+  "ClientId": "20000181|91205|32100",
+  "Nickname": "Pualy",
+  "OperatorID": 20000181,
+  "clientType": "html"
+}

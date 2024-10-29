@@ -1,0 +1,13 @@
+{
+  "timeStamp": "2022-11-28 10:13:57:329",
+  "TableId": "32100",
+  "gameType": "BaccaratQueenco",
+  "destination": "player",
+  "ClientId": "20000181|91205|32100",
+  "RoundTripStartTime": 1669630437329,
+  "TimerTimeLeft": 30,
+  "TimerTime": 30,
+  "roundId": 1319992273,
+  "MessageType": "PLACE_YOUR_BETS",
+  "MessageID": "2085"
+}

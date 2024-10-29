@@ -1,0 +1,13 @@
+{
+  "ClientId": "20000181|91205|32100",
+  "ClientIP": "157.50.30.195",
+  "CurrentPlayerToken": "ff1f8d33-333c-4b83-a64f-0414ed6a35cd",
+  "MessageType": "PlaceBetIntent",
+  "destination": "player",
+  "gameType": "27",
+  "TableId": "32100",
+  "roundId": 1319989990,
+  "BetsList": {
+    "PlayerBet": 1
+  }
+}

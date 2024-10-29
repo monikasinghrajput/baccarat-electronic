@@ -1,0 +1,40 @@
+{
+  "gameType": "BaccaratQueenco",
+  "destination": "player",
+  "ClientId": "20000181|91205|32100",
+  "RoundTripStartTime": 1669630434320,
+  "GameResults": {
+    "isPlayerPair": false,
+    "BankerCards": [
+      {
+        "CardName": "6d",
+        "CardValue": 6
+      },
+      {
+        "CardName": "3d",
+        "CardValue": 3
+      }
+    ],
+    "isBankerPair": false,
+    "isNaturalHand": true,
+    "isSuitedTie": false,
+    "PlayerCards": [
+      {
+        "CardName": "7c",
+        "CardValue": 7
+      },
+      {
+        "CardName": "Js",
+        "CardValue": 10
+      }
+    ],
+    "playerHandValue": 7,
+    "bankerHandValue": 9,
+    "roundId": 1319989990,
+    "WinningHand": "Banker",
+    "CardHandValue": 9
+  },
+  "roundId": 1319989990,
+  "WinAmount": 0,
+  "MessageType": "GAME_RESULT"
+}

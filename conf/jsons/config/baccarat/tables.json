@@ -1,0 +1,101 @@
+{
+  "32100": {
+    "id": 32100,
+    "game_id": 27,
+    "meta_table_id": 32100,
+    "languages": [
+      "en"
+    ],
+    "open_hours": {
+      "open": null,
+      "close": null
+    },
+    "closed_table_image": "https://conf.livetables.io/CustomAssets//open_close_table/baccarat_closed.jpg",
+    "open_table_image": "https://conf.livetables.io/CustomAssets//open_close_table/OTT_BC_Sri_Lanka.jpg",
+    "title": "BAC-001",
+    "active": true,
+    "dealer_id": "20",
+    "dealer_name": "Default",
+    "dealer_image": "https://recording.ezugicdn.com/Dealer-Images/Single//LiveCasinoNew/BO/BizConfigs/Casino/Resources/Dealers/Images/Default_20.png",
+    "dynamic_table_image": "https://recording.ezugicdn.com/Dealer-Images/Single/32100.jpg?v=1669632281",
+    "has_hybrid": false,
+    "hybrid_table_id": 0,
+    "history": [],
+    "round_start_time": {
+      "time_left": 0,
+      "timestamp": 0
+    },
+    "use_dynamic_image": false,
+    "players_count": 0,
+    "new": false,
+    "limits": {
+      "992712": {
+        "id": 992712,
+        "chips": [
+          {
+            "color": "cyan",
+            "value": 10,
+            "img": "/assets/CustomAssets/chips/default_cyan.png",
+            "default": false
+          },
+          {
+            "color": "red",
+            "value": 20,
+            "img": "/assets/CustomAssets/chips/default_red.png",
+            "default": false
+          },
+          {
+            "color": "violet",
+            "value": 50,
+            "img": "/assets/CustomAssets/chips/default_violet.png",
+            "default": false
+          },
+          {
+            "color": "bordeaux",
+            "value": 100,
+            "img": "/assets/CustomAssets/chips/default_bordeaux.png",
+            "default": false
+          },
+          {
+            "color": "green",
+            "value": 200,
+            "img": "/assets/CustomAssets/chips/default_green.png",
+            "default": false
+          },
+          {
+            "color": "yellow",
+            "value": 500,
+            "img": "/assets/CustomAssets/chips/default_yellow.png",
+            "default": false
+          },
+          {
+            "color": "black",
+            "value": 1000,
+            "img": "/assets/CustomAssets/chips/default_black.png",
+            "default": false
+          }
+        ],
+        "Min_Bet": 10,
+        "Max_Bet": 2000,
+        "Min_SideBet": 10,
+        "Max_SideBet": 2000,
+        "Min_StraightUpBet": 0,
+        "Max_StraightUpBet": 0,
+        "Min_SplitBet": 0,
+        "Max_SplitBet": 0,
+        "Min_StreetBet": 0,
+        "Max_StreetBet": 0,
+        "Min_CornerBet": 0,
+        "Max_CornerBet": 0,
+        "Min_LineBet": 0,
+        "Max_LineBet": 0,
+        "Min_Dozen_ColumnBet": 0,
+        "Max_Dozen_ColumnBet": 0,
+        "Min_OutsideBet": 0,
+        "Max_OutsideBet": 0,
+        "Min_Tie": 10,
+        "Max_Tie": 5001
+      }
+    }
+  }
+}

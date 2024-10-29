@@ -1,0 +1,11 @@
+{
+  "CardName": "6d",
+  "BaccaratType": "Queenco",
+  "CardHand": "banker",
+  "destination": "player",
+  "ClientId": "20000181|91205|32100",
+  "RoundTripStartTime": 1669630429243,
+  "CardHandValue": 6,
+  "MessageType": "Card",
+  "CardValue": 6
+}

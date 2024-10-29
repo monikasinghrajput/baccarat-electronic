@@ -1,0 +1,21 @@
+# Ignore Play! working directory #
+bin/
+null/
+/db
+.idea/
+.bsp/
+.metals/
+.bloop/
+/libs/
+/logs/
+/modules
+/project/project
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
+.cache
+/node_modules

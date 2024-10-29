@@ -1,0 +1,11 @@
+{
+  "CardName": "7c",
+  "BaccaratType": "Queenco",
+  "CardHand": "player",
+  "destination": "player",
+  "ClientId": "20000181|91205|32100",
+  "RoundTripStartTime": 1669630427002,
+  "CardHandValue": 7,
+  "MessageType": "Card",
+  "CardValue": 7
+}

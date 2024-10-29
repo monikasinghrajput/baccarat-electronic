@@ -1,0 +1,925 @@
+{
+  "TableId": "32100",
+  "gameType": "BaccaratQueenco",
+  "data": {
+    "BankerCards": [],
+    "playerBetOfThisRound": {
+      "SideBets": {}
+    },
+    "balance": 12807.1,
+    "PlayerCards": [],
+    "playerHandValue": 0,
+    "bankerHandValue": 0,
+    "lastWinningResult": {
+      "isPlayerPair": false,
+      "BankerCards": [
+        {
+          "CardName": "Qc",
+          "CardValue": 10
+        },
+        {
+          "CardName": "Ac",
+          "CardValue": 11
+        },
+        {
+          "CardName": "3h",
+          "CardValue": 3
+        }
+      ],
+      "isBankerPair": false,
+      "isNaturalHand": false,
+      "isSuitedTie": false,
+      "PlayerCards": [
+        {
+          "CardName": "Jc",
+          "CardValue": 10
+        },
+        {
+          "CardName": "7c",
+          "CardValue": 7
+        }
+      ],
+      "playerHandValue": 7,
+      "bankerHandValue": 4,
+      "roundId": 1319864734,
+      "WinningHand": "Player",
+      "CardHandValue": 7
+    },
+    "History": [
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Qs",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Qs",
+            "CardValue": 10
+          }
+        ],
+        "isBankerPair": true,
+        "isNaturalHand": true,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Ah",
+            "CardValue": 11
+          },
+          {
+            "CardName": "7s",
+            "CardValue": 7
+          }
+        ],
+        "playerHandValue": 8,
+        "bankerHandValue": 0,
+        "roundId": 1319785930,
+        "WinningHand": "Player",
+        "CardHandValue": 8
+      },
+      {
+        "isPlayerPair": true,
+        "BankerCards": [
+          {
+            "CardName": "Kd",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Ac",
+            "CardValue": 11
+          },
+          {
+            "CardName": "5c",
+            "CardValue": 5
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "5d",
+            "CardValue": 5
+          },
+          {
+            "CardName": "5s",
+            "CardValue": 5
+          },
+          {
+            "CardName": "9s",
+            "CardValue": 9
+          }
+        ],
+        "playerHandValue": 9,
+        "bankerHandValue": 6,
+        "roundId": 1319815693,
+        "WinningHand": "Player",
+        "CardHandValue": 9
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "4d",
+            "CardValue": 4
+          },
+          {
+            "CardName": "Qs",
+            "CardValue": 10
+          },
+          {
+            "CardName": "9s",
+            "CardValue": 9
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "5h",
+            "CardValue": 5
+          },
+          {
+            "CardName": "Ts",
+            "CardValue": 10
+          },
+          {
+            "CardName": "7h",
+            "CardValue": 7
+          }
+        ],
+        "playerHandValue": 2,
+        "bankerHandValue": 3,
+        "roundId": 1319817734,
+        "WinningHand": "Banker",
+        "CardHandValue": 3
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Ac",
+            "CardValue": 11
+          },
+          {
+            "CardName": "Qc",
+            "CardValue": 10
+          },
+          {
+            "CardName": "8s",
+            "CardValue": 8
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "4c",
+            "CardValue": 4
+          },
+          {
+            "CardName": "Ah",
+            "CardValue": 11
+          },
+          {
+            "CardName": "2d",
+            "CardValue": 2
+          }
+        ],
+        "playerHandValue": 7,
+        "bankerHandValue": 9,
+        "roundId": 1319820235,
+        "WinningHand": "Banker",
+        "CardHandValue": 9
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "7h",
+            "CardValue": 7
+          },
+          {
+            "CardName": "Kd",
+            "CardValue": 10
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "5d",
+            "CardValue": 5
+          },
+          {
+            "CardName": "Ac",
+            "CardValue": 11
+          }
+        ],
+        "playerHandValue": 6,
+        "bankerHandValue": 7,
+        "roundId": 1319822419,
+        "WinningHand": "Banker",
+        "CardHandValue": 7
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "As",
+            "CardValue": 11
+          },
+          {
+            "CardName": "2c",
+            "CardValue": 2
+          },
+          {
+            "CardName": "6h",
+            "CardValue": 6
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "8h",
+            "CardValue": 8
+          },
+          {
+            "CardName": "4s",
+            "CardValue": 4
+          },
+          {
+            "CardName": "Qs",
+            "CardValue": 10
+          }
+        ],
+        "playerHandValue": 2,
+        "bankerHandValue": 9,
+        "roundId": 1319824299,
+        "WinningHand": "Banker",
+        "CardHandValue": 9
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "2s",
+            "CardValue": 2
+          },
+          {
+            "CardName": "8s",
+            "CardValue": 8
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": true,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "3s",
+            "CardValue": 3
+          },
+          {
+            "CardName": "6c",
+            "CardValue": 6
+          }
+        ],
+        "playerHandValue": 9,
+        "bankerHandValue": 0,
+        "roundId": 1319826519,
+        "WinningHand": "Player",
+        "CardHandValue": 9
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "6s",
+            "CardValue": 6
+          },
+          {
+            "CardName": "Kh",
+            "CardValue": 10
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "4d",
+            "CardValue": 4
+          },
+          {
+            "CardName": "Js",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Kd",
+            "CardValue": 10
+          }
+        ],
+        "playerHandValue": 4,
+        "bankerHandValue": 6,
+        "roundId": 1319828505,
+        "WinningHand": "Banker",
+        "CardHandValue": 6
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "4h",
+            "CardValue": 4
+          },
+          {
+            "CardName": "Ks",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Tc",
+            "CardValue": 10
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "7c",
+            "CardValue": 7
+          },
+          {
+            "CardName": "Ts",
+            "CardValue": 10
+          }
+        ],
+        "playerHandValue": 7,
+        "bankerHandValue": 4,
+        "roundId": 1319830345,
+        "WinningHand": "Player",
+        "CardHandValue": 7
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "9s",
+            "CardValue": 9
+          },
+          {
+            "CardName": "9h",
+            "CardValue": 9
+          }
+        ],
+        "isBankerPair": true,
+        "isNaturalHand": true,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "8s",
+            "CardValue": 8
+          },
+          {
+            "CardName": "4h",
+            "CardValue": 4
+          }
+        ],
+        "playerHandValue": 2,
+        "bankerHandValue": 8,
+        "roundId": 1319833928,
+        "WinningHand": "Banker",
+        "CardHandValue": 8
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Kd",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Qc",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Kc",
+            "CardValue": 10
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "3s",
+            "CardValue": 3
+          },
+          {
+            "CardName": "As",
+            "CardValue": 11
+          },
+          {
+            "CardName": "Tc",
+            "CardValue": 10
+          }
+        ],
+        "playerHandValue": 4,
+        "bankerHandValue": 0,
+        "roundId": 1319835775,
+        "WinningHand": "Player",
+        "CardHandValue": 4
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "8d",
+            "CardValue": 8
+          },
+          {
+            "CardName": "8c",
+            "CardValue": 8
+          },
+          {
+            "CardName": "4h",
+            "CardValue": 4
+          }
+        ],
+        "isBankerPair": true,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "2h",
+            "CardValue": 2
+          },
+          {
+            "CardName": "8c",
+            "CardValue": 8
+          },
+          {
+            "CardName": "6h",
+            "CardValue": 6
+          }
+        ],
+        "playerHandValue": 6,
+        "bankerHandValue": 0,
+        "roundId": 1319837920,
+        "WinningHand": "Player",
+        "CardHandValue": 6
+      },
+      {
+        "isPlayerPair": true,
+        "BankerCards": [
+          {
+            "CardName": "9d",
+            "CardValue": 9
+          },
+          {
+            "CardName": "3h",
+            "CardValue": 3
+          },
+          {
+            "CardName": "2c",
+            "CardValue": 2
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Kc",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Kc",
+            "CardValue": 10
+          },
+          {
+            "CardName": "5d",
+            "CardValue": 5
+          }
+        ],
+        "playerHandValue": 5,
+        "bankerHandValue": 4,
+        "roundId": 1319840287,
+        "WinningHand": "Player",
+        "CardHandValue": 5
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Th",
+            "CardValue": 10
+          },
+          {
+            "CardName": "7s",
+            "CardValue": 7
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Kc",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Qs",
+            "CardValue": 10
+          },
+          {
+            "CardName": "3d",
+            "CardValue": 3
+          }
+        ],
+        "playerHandValue": 3,
+        "bankerHandValue": 7,
+        "roundId": 1319842602,
+        "WinningHand": "Banker",
+        "CardHandValue": 7
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Ad",
+            "CardValue": 11
+          },
+          {
+            "CardName": "Js",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Jd",
+            "CardValue": 10
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Ah",
+            "CardValue": 11
+          },
+          {
+            "CardName": "6h",
+            "CardValue": 6
+          }
+        ],
+        "playerHandValue": 7,
+        "bankerHandValue": 1,
+        "roundId": 1319846465,
+        "WinningHand": "Player",
+        "CardHandValue": 7
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Th",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Js",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Ad",
+            "CardValue": 11
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Jh",
+            "CardValue": 10
+          },
+          {
+            "CardName": "5h",
+            "CardValue": 5
+          },
+          {
+            "CardName": "4s",
+            "CardValue": 4
+          }
+        ],
+        "playerHandValue": 9,
+        "bankerHandValue": 1,
+        "roundId": 1319848485,
+        "WinningHand": "Player",
+        "CardHandValue": 9
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "6h",
+            "CardValue": 6
+          },
+          {
+            "CardName": "2h",
+            "CardValue": 2
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": true,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "5s",
+            "CardValue": 5
+          },
+          {
+            "CardName": "3s",
+            "CardValue": 3
+          }
+        ],
+        "playerHandValue": 8,
+        "bankerHandValue": 8,
+        "roundId": 1319850419,
+        "WinningHand": "Tie",
+        "CardHandValue": 8
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "3h",
+            "CardValue": 3
+          },
+          {
+            "CardName": "Th",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Kc",
+            "CardValue": 10
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Ts",
+            "CardValue": 10
+          },
+          {
+            "CardName": "7d",
+            "CardValue": 7
+          }
+        ],
+        "playerHandValue": 7,
+        "bankerHandValue": 3,
+        "roundId": 1319852628,
+        "WinningHand": "Player",
+        "CardHandValue": 7
+      },
+      {
+        "isPlayerPair": true,
+        "BankerCards": [
+          {
+            "CardName": "2d",
+            "CardValue": 2
+          },
+          {
+            "CardName": "Ks",
+            "CardValue": 10
+          },
+          {
+            "CardName": "4d",
+            "CardValue": 4
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "6d",
+            "CardValue": 6
+          },
+          {
+            "CardName": "6d",
+            "CardValue": 6
+          },
+          {
+            "CardName": "5h",
+            "CardValue": 5
+          }
+        ],
+        "playerHandValue": 7,
+        "bankerHandValue": 6,
+        "roundId": 1319854612,
+        "WinningHand": "Player",
+        "CardHandValue": 7
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "7d",
+            "CardValue": 7
+          },
+          {
+            "CardName": "2h",
+            "CardValue": 2
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": true,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Qd",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Jh",
+            "CardValue": 10
+          }
+        ],
+        "playerHandValue": 0,
+        "bankerHandValue": 9,
+        "roundId": 1319856602,
+        "WinningHand": "Banker",
+        "CardHandValue": 9
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Ah",
+            "CardValue": 11
+          },
+          {
+            "CardName": "2c",
+            "CardValue": 2
+          },
+          {
+            "CardName": "As",
+            "CardValue": 11
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "2d",
+            "CardValue": 2
+          },
+          {
+            "CardName": "3h",
+            "CardValue": 3
+          },
+          {
+            "CardName": "6c",
+            "CardValue": 6
+          }
+        ],
+        "playerHandValue": 1,
+        "bankerHandValue": 4,
+        "roundId": 1319858211,
+        "WinningHand": "Banker",
+        "CardHandValue": 4
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "3h",
+            "CardValue": 3
+          },
+          {
+            "CardName": "7h",
+            "CardValue": 7
+          },
+          {
+            "CardName": "7c",
+            "CardValue": 7
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Ts",
+            "CardValue": 10
+          },
+          {
+            "CardName": "3c",
+            "CardValue": 3
+          },
+          {
+            "CardName": "8s",
+            "CardValue": 8
+          }
+        ],
+        "playerHandValue": 1,
+        "bankerHandValue": 7,
+        "roundId": 1319860319,
+        "WinningHand": "Banker",
+        "CardHandValue": 7
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "3s",
+            "CardValue": 3
+          },
+          {
+            "CardName": "8h",
+            "CardValue": 8
+          },
+          {
+            "CardName": "5d",
+            "CardValue": 5
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "8d",
+            "CardValue": 8
+          },
+          {
+            "CardName": "5s",
+            "CardValue": 5
+          },
+          {
+            "CardName": "9h",
+            "CardValue": 9
+          }
+        ],
+        "playerHandValue": 2,
+        "bankerHandValue": 6,
+        "roundId": 1319862746,
+        "WinningHand": "Banker",
+        "CardHandValue": 6
+      },
+      {
+        "isPlayerPair": false,
+        "BankerCards": [
+          {
+            "CardName": "Qc",
+            "CardValue": 10
+          },
+          {
+            "CardName": "Ac",
+            "CardValue": 11
+          },
+          {
+            "CardName": "3h",
+            "CardValue": 3
+          }
+        ],
+        "isBankerPair": false,
+        "isNaturalHand": false,
+        "isSuitedTie": false,
+        "PlayerCards": [
+          {
+            "CardName": "Jc",
+            "CardValue": 10
+          },
+          {
+            "CardName": "7c",
+            "CardValue": 7
+          }
+        ],
+        "playerHandValue": 7,
+        "bankerHandValue": 4,
+        "roundId": 1319864734,
+        "WinningHand": "Player",
+        "CardHandValue": 7
+      }
+    ]
+  },
+  "BaccaratType": "Queenco",
+  "destination": "player",
+  "physicalTableId": "32100",
+  "timeStamp": "2022-11-28 09:21:26:233",
+  "isOppositeBettingAllowed": false,
+  "ClientId": "20000181|91205|32100",
+  "RoundTripStartTime": 1669627286233,
+  "roundId": 1319867061,
+  "MessageType": "InitialData",
+  "isBetIntentStatisticsEnabled": true
+}

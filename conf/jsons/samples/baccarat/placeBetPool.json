@@ -1,0 +1,16 @@
+{
+  "destination": "player",
+  "ClientId": "20000181|91205|32100",
+  "RoundTripStartTime": 1669630437329,
+  "PoolData": {
+    "SuitedTieAmount": 0,
+    "TieCount": 0,
+    "BankerCount": 0,
+    "SuitedTieCount": 0,
+    "BankerAmount": 0,
+    "TieAmount": 0,
+    "PlayerCount": 0,
+    "PlayerAmount": 0
+  },
+  "MessageType": "PlaceBetIntentPool"
+}

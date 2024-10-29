@@ -1,0 +1,14 @@
+{
+  "TableId": "32100",
+  "timeStamp": "2022-11-28 10:13:34:530",
+  "gameType": "27",
+  "balance": 12808.05,
+  "BaccaratType": "Queenco",
+  "SessionCurrency": "USD",
+  "destination": "player",
+  "ClientId": "20000181|91205|32100",
+  "RoundTripStartTime": 1669630414530,
+  "roundId": 1319989990,
+  "MessageType": "CURRENT_BALANCE",
+  "MessageID": "2021"
+}
